@@ -1,0 +1,8 @@
+# Kişisel veriler: ayarlar (VLC şifresi, API anahtarları), kelimeler, çeviri önbelleği, altyazı önbelleği
+data/
+
+__pycache__/
+*.py[cod]
+*.log
+.vscode/
+.idea/
